@@ -8,3 +8,4 @@ class Teacher < User
     puts KNOWLEDGE.count
     binding.pry
 end
+end
