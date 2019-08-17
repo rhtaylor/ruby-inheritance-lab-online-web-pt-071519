@@ -6,6 +6,6 @@ class Teacher < User
   def teach
       x = rand(1..8)
     KNOWLEDGE[x]
-    
+
 end
 end
